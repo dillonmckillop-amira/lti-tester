@@ -1,0 +1,13 @@
+# Node
+lti-tester-react/node_modules/
+lti-tester-react/dist/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Local scratch files
+mockup.html
